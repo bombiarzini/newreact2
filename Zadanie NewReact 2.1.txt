@@ -1,0 +1,10 @@
+Zadanie NewReact 2.1
+Zadanie: Wymień trzy wady podejścia CDN w porównaniu do projektu npm. Wyjaśnij, czym jest hot–reload i dlaczego ułatwia pracę. 
+
+
+hot reload to taka funkcja która aktualizuje nam kod na bieżąco bez odswiezania przeglądarki. Jest bardzo przydatna ponieważ oszczedza nam czas
+
+Trzy wady:
+-cdn nie ma hot reload i musimy recznie odswiezac
+-jest wolny w zaleznosci od internetu i może być niedostepny
+-jest nieczytelny i nie możemy latwo dodawać nowych bibiotek
