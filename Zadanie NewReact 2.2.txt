@@ -1,0 +1,8 @@
+Zadanie NewReact 2.2
+
+strictmode to komponent który dodaje dodatkowe sprawdzenia które
+pomagają nam znaleźć bledy w kodzie
+
+app jest w srodku ponieważ strictmode działa na niego sprawdza itp.
+
+root do niego renderujemy komponenty
